@@ -1,0 +1,36 @@
+@charset "ISO-8859-1";
+
+.navbar-brand{
+	
+	padding-top: 15px;
+	padding-bottom: 15px;
+	font-size: 25px;	
+	
+}
+
+.form-horizontal{
+	padding-left: 15px;
+	padding-top: 15px;
+
+	
+}
+
+
+.panel-title{
+	font-size: 25px;
+	padding-left: 15px;
+	font-weight: bold;
+	
+	
+}
+
+.panel-body{
+	font-size: 15px;
+	color: #3331CC;
+	background: #CED7FB;
+	
+}
+
+.panel-heading{
+	color: #403DFF;
+}
